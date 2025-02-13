@@ -1,10 +1,10 @@
-# Pencil's reverse proxy service (prpservice)
+# Pencil Deployed Service (pdepsvc)
 
-Speed up popular services.
+Public services that i deployed.
 
 ## jsdelivr: 
 ```
-https://jsdelivr-cdn.prpservice.990989.xyz
+https://jsdelivr-cdn.rproxy.pdepsvc.990989.xyz
 ```
 ## discord api （UNAVALIABLE）
 ```
